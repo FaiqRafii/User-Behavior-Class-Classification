@@ -8,6 +8,7 @@ st.set_page_config(
 )
 
 st.title("Klasifikasi User Behavior Class")
+st.write("M. Faiq Rafii Wahyudi - 230605110006")
 st.write(
     "Aplikasi ini menggunakan model Decision Tree hasil training dari Google Colab "
     "untuk memprediksi kelas perilaku pengguna perangkat mobile."
